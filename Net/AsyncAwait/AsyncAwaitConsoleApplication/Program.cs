@@ -2,7 +2,7 @@
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace AsyncConsoleApplication9
+namespace AsyncAwaitConsoleApplication
 {
     class Program
     {

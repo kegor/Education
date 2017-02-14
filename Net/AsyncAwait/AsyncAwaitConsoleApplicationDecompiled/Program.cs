@@ -1,8 +1,8 @@
 ﻿// Decompiled with JetBrains decompiler
-// Type: AsyncConsoleApplication9.Program
-// Assembly: AsyncConsoleApplication9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+// Type: AsyncAwaitConsoleApplicationDecompiled.Program
+// Assembly: AsyncAwaitConsoleApplicationDecompiled, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 // MVID: 98A33FA7-D4FC-4DCC-8189-EB70074401EA
-// Assembly location: C:\Users\v-egkrus\Desktop\AsyncConsoleApplication9.exe
+// Assembly location: C:\Users\v-egkrus\Desktop\AsyncAwaitConsoleApplicationDecompiled.exe
 // Compiler-generated code is shown
 
 using System;
@@ -11,7 +11,7 @@ using System.Net.Http;
 using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 
-namespace AsyncConsoleApplication9
+namespace AsyncAwaitConsoleApplicationDecompiled
 {
     internal class Program
     {

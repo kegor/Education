@@ -7,8 +7,8 @@
     <ProjectGuid>{2F25CDA8-C1A5-4568-9F26-A5299DDF50B9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AsyncConsoleApplication9</RootNamespace>
-    <AssemblyName>AsyncConsoleApplication9</AssemblyName>
+    <RootNamespace>AsyncAwaitConsoleApplicationDecompiled</RootNamespace>
+    <AssemblyName>AsyncAwaitConsoleApplicationDecompiled</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
